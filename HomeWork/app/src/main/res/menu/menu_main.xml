@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item android:id="@+id/activity_action2"
+    android:title="@string/next"
+    />
+<item android:id="@+id/activity_action1"
+    android:title="@string/prev"
+    android:visible="false"/>
+</menu>
